@@ -1,18 +1,27 @@
-# Tracé et intégration d'une fonction en Python
+Function Plotting and Integration in Python
 
-Ce projet permet à l'utilisateur :
-- D'entrer une formule mathématique en fonction de `x`
-- De calculer l'aire sous la courbe via la méthode des trapèzes
-- De tracer la fonction avec `matplotlib`
+This project allows the user to:
 
-## 📦 Dépendances
+Enter a mathematical formula in terms of x
 
-Ce programme utilise les bibliothèques suivantes :
-- `math`
-- `numpy`
-- `matplotlib`
+Calculate the area under the curve using the trapezoidal method
 
-Installe-les avec :
+Plot the function using matplotlib
 
-```bash
+Dependencies
+
+This program uses the following libraries:
+
+math
+
+numpy
+
+matplotlib
+
+Install them with:
+
 pip install numpy matplotlib
+
+About
+
+This project provides a simple tool to visualize mathematical functions and compute approximate integrals interactively.
