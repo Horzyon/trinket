@@ -1,27 +1,7 @@
-Function Plotting and Integration in Python
+# 🧮 Trinket – Calcul et tracé d'aires sous une courbe
 
-This project allows the user to:
+Ce mini-projet Python permet de calculer et visualiser l'aire sous une courbe donnée par une fonction f(x).
 
-Enter a mathematical formula in terms of x
-
-Calculate the area under the curve using the trapezoidal method
-
-Plot the function using matplotlib
-
-Dependencies
-
-This program uses the following libraries:
-
-math
-
-numpy
-
-matplotlib
-
-Install them with:
-
-pip install numpy matplotlib
-
-About
-
-This project provides a simple tool to visualize mathematical functions and compute approximate integrals interactively.
+## 🚀 Utilisation
+```bash
+python integrales.py
